@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
   final HomeController controller;
 
   // Construtor recebe o controller como parâmetro
-  const HomePage({Key? key, required this.controller}) : super(key: key);
+  const HomePage({super.key, required this.controller});
 
   @override
   Widget build(BuildContext context) {
