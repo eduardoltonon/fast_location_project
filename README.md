@@ -1,6 +1,6 @@
 # FastLocation
 
-Aplicativo Flutter desenvolvido como parte do desafio **DSMD_GR01 - Agenda**, com base nos conceitos do Livro 1. O objetivo é permitir a consulta de endereços via CEP, armazenamento local e visualização em mapa.
+Aplicativo Flutter desenvolvido como parte do **Desafio 1** da disciplina **Desenvolvimento de Sistemas Móveis e Distribuídos**. O projeto tem como objetivo permitir a consulta de endereços via CEP, com armazenamento local e visualização em mapa.
 
 ---
 
